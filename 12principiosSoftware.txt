@@ -1,0 +1,46 @@
+Resumen de los 12 principios del manifiesto ágil
+
+1. Satisfacción del Cliente:
+Entregar software valioso de manera temprana y continua para satisfacer las necesidades del cliente.
+
+2. Aceptación de Cambios:
+Adaptarse a cambios en los requisitos, incluso en etapas avanzadas del desarrollo, para responder a las necesidades cambiantes del cliente.
+
+3. Entrega Frecuente:
+   - Entregar software funcional regularmente en cortos intervalos, priorizando la entrega continua sobre los plazos largos.
+
+4. Colaboración Constante:
+   - Fomentar la colaboración estrecha y continua entre desarrolladores y partes interesadas para garantizar una comprensión común y una toma de decisiones efectiva.
+
+5. Individuos Motivados:
+   - Construir equipos con individuos motivados, proporcionándoles el entorno y el apoyo necesarios y confiando en su capacidad para cumplir con el trabajo.
+
+6. Comunicación Cara a Cara:
+   - Favorecer la comunicación directa y cara a cara como el método más efectivo para transmitir información entre los miembros del equipo.
+
+7. Software Funcional como Medida de Progreso:
+   - Utilizar el software funcional como indicador clave de avance en lugar de depender únicamente de documentación o procesos.
+
+8. Mantenimiento Sostenible del Ritmo:
+   - Trabajar a un ritmo sostenible a largo plazo, evitando la sobrecarga de trabajo que pueda afectar la calidad del producto y la moral del equipo.
+
+9. Excelencia Técnica y Buen Diseño:
+   - Prestar atención constante a la calidad técnica y al diseño efectivo para garantizar la creación de software sólido y fácil de mantener.
+
+
+
+10. Simplicidad:
+    - Valorar la simplicidad y minimizar el trabajo no necesario, reconociendo que la simplicidad facilita la comprensión y el mantenimiento del sistema.
+
+11. Arquitecturas y Diseños Emergentes:
+    - Permitir que las mejores arquitecturas, requisitos y diseños surjan de equipos autoorganizados en lugar de imponer decisiones desde arriba.
+
+12. Reflexión y Mejora Continua:
+    - Regularmente, el equipo reflexiona sobre su desempeño y busca formas de mejorar, ajustando su enfoque y procesos en consecuencia.
+
+Importancia en el manejo de metodologías ágiles
+
+Presenta una base formal en la ingeniería de software a las “nuevas metodologías”, así como en su momento lo hicieron después del incidente del Therac-25 pero en razón del manejo ágil. Dió un gran salto ya que se centró en la satisfacción del cliente, entregas continuas y una colaboración efectiva entre equipos y partes interesadas
+En resumen, resalta la capacidad única de estas metodologías para desarrollar productos adaptables a cambios sin sacrificar la calidad. Su importancia está en orientar a los equipos hacia prácticas flexibles, centradas en el cliente y colaborativas, creando un desarrollo de software eficiente y adaptable.
+
+
